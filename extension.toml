@@ -1,0 +1,10 @@
+id = "zed-discord-rpc"
+name = "Discord Rich Presence"
+version = "0.0.1"
+schema_version = 1
+authors = [
+    "Jonas Kauker <jonas.kauker2003@gmail.com>",
+    "Jan Hauck <yubinex@his.mail>",
+]
+description = "Show what you are doing in Zed on Discord"
+repository = "https://github.com/Reptudn/zed-discord-rpc"
